@@ -1,0 +1,19 @@
+billboard
+bus
+bus stop
+car
+department store
+garbage can
+litter basket
+neon sign
+news stand
+parking meter
+pedestrian crossing
+shop window
+street light
+street sign
+subway station
+taxi stand
+traffic island
+traffic light
+train station

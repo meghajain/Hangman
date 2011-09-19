@@ -1,0 +1,26 @@
+attic
+basement
+bathroom
+bedroom
+cellar
+closet
+den
+dining room
+front yard
+garage
+hall
+hallway
+kitchen
+laundry
+living room
+master bedroom
+office
+pantry
+patio
+playroom
+porch
+staircase
+study
+sun room
+TV room
+workshop

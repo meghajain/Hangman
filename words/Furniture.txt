@@ -1,0 +1,18 @@
+armchair
+baby bed
+bed
+bookcase
+cabinet
+chair
+chest
+closet
+cupboard
+desk
+dresser
+hall stand
+lamp
+seat
+shelf
+sideboard
+stool
+table

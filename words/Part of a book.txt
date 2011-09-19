@@ -1,0 +1,12 @@
+acknowledgments
+appendix
+bibliography
+contents
+copyright
+dedication
+explanatory notes
+footnote
+index
+preface
+text
+title

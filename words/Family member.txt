@@ -1,0 +1,17 @@
+aunt
+brother
+cousin
+daughter
+father
+granddaughter
+grandmother
+grandson
+mother
+nephew
+niece
+sister
+son
+stepdaughter
+stepmother
+stepson
+uncle

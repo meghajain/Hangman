@@ -1,0 +1,17 @@
+circle
+cone
+cylinder
+ellipse
+hexagon
+octagon
+oval
+parallelogram
+pentagon
+pyramid
+rectangle
+semicircle
+sphere
+square
+star
+trapezoid
+triangle

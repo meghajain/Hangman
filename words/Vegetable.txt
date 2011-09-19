@@ -1,0 +1,27 @@
+asparagus
+beans
+beet
+broccoli
+Brussels sprouts
+cabbage
+carrot
+cauliflower
+celery
+Chinese cabbage
+corn
+cucumber
+eggplant
+green pepper
+Japanese radish
+kale
+lettuce
+okra
+onion
+peas
+potato
+pumpkins
+radish
+spinach
+sweet potato
+tomatoes
+turnips
